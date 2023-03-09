@@ -1,3 +1,5 @@
+#Autor:Diego Rodrigues Peireira
+
 section .text
 global _start
 
